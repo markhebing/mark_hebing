@@ -16,7 +16,7 @@ The poster wanted to know that if you know the twelve recovery words in a wallet
 
 Well, the answer is yes. You could actually do it with this simple script:
 
----
+'''
 
 import random
 
@@ -103,7 +103,7 @@ print("Hacked!!!")
 print(seed_random)
 print(seed_guess)
 
----
+'''
 
 If you run this script in python, you quickly see however, that it would take one computer years to crack the seed.
 
