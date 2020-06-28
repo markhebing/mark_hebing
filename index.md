@@ -33,7 +33,7 @@ Well, the answer is yes. You could actually do it with this simple script:
     counter_10 = 0
     counter_11 = 0
     
-    seed = ("word_one", "word_two", "word_three", "word_four", "word_five", "word_six", "word_seven", "word_eight", "word_nine", "word_ten", "word_eleven",         "word_twelve")
+    seed = ("word_one", "word_two", "word_three", "word_four", "word_five", "word_six", "word_seven", "word_eight", "word_nine", "word_ten", "word_eleven", "word_twelve")
     seed_random = list(seed)
     seed_guess = list(seed)
        
