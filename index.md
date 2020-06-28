@@ -4,3 +4,5 @@ Home of random python scripts based around function building as well as scientif
 
 Find the database here: https://github.com/markhebing/blog/tree/master/scripts
 
+## Blog Posts
+
