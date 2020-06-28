@@ -6,3 +6,5 @@ Find the database here: https://github.com/markhebing/blog/tree/master/scripts
 
 ## Blog Posts
 
+http://github.com - automatic!
+[GitHub](http://github.com)
