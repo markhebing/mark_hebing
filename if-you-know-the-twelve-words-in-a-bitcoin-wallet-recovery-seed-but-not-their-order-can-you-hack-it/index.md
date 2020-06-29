@@ -4,7 +4,7 @@ This question was recently posted on Reddit/r/bitcoin.
 
 The poster wanted to know that if you know the twelve recovery words in a wallet recovery seed, could you potentially hack the wallet and steal the funds?
 
-Well, the answer is yes. You could actually do it with this simple script:
+Well, the answer is yes. You could actually do it with this simple python script:
 
 ---
     
