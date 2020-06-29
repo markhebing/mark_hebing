@@ -1,4 +1,4 @@
-# If You Know The Twelve Words In A Bitcoin Recovery Seed, But Not Their Order, Can You Hack It?
+# If You Know The Twelve Words In A Bitcoin Wallet Recovery Seed, But Not Their Order, Can You Hack It?
 
 This question was recently posted on Reddit/r/bitcoin.
 
