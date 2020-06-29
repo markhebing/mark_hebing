@@ -8,4 +8,4 @@ Find the database here: [SCRIPTS](https://github.com/markhebing/python-scripts)
 
 June 28, 2020
 
-## [If You Know The Twelve Words In A Bitcoin Recovery Seed, But Not Their Order, Can You Hack It?](https://markhebing.github.io/blog/if-you-know-the-twelve-words-in-a-bitcoin-wallet-recovery-seed-but-not-their-order-can-you-hack-it/)
+## [If You Know The Twelve Words In A Bitcoin Wallet Recovery Seed, But Not Their Order, Can You Hack It?](https://markhebing.github.io/blog/if-you-know-the-twelve-words-in-a-bitcoin-wallet-recovery-seed-but-not-their-order-can-you-hack-it/)
