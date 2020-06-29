@@ -97,4 +97,4 @@ Well, the answer is yes. You could actually do it with this simple script:
 
 If you run this script in python, you quickly see however, that it would take one computer years to crack the seed.
 
-However, if this script was used simultaneously on many computers at once, the time could easily be reduced to minutes.
+However, if this script was used simultaneously on many computers at once, and if the script gave different portions to each computer in the network, the time could easily be reduced to minutes.
