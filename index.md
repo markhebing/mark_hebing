@@ -4,6 +4,10 @@ Home of random python scripts based around function building as well as scientif
 
 Find the database here: [SCRIPTS](https://github.com/markhebing/python-scripts)
 
+# Certifications
+
+
+
 # Blog Posts
 
 June 28, 2020
