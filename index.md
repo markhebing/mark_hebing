@@ -6,7 +6,7 @@ Find the database here: [SCRIPTS](https://github.com/markhebing/python-scripts)
 
 # Certifications
 
-...
+Stay tuned...
 
 # Blog Posts
 
