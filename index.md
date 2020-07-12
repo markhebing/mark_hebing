@@ -10,4 +10,4 @@ Do real "certifications" for python even exist???
 
 June 28, 2020
 
-## [If You Know The Twelve Words In A Bitcoin Wallet Recovery Seed, But Not Their Order, Can You Hack It?](https://markhebing.github.io/blog/if-you-know-the-twelve-words-in-a-bitcoin-wallet-recovery-seed-but-not-their-order-can-you-hack-it/)
+## [If You Know The Twelve Words In A Bitcoin Wallet Recovery Seed, But Not Their Order, Can You Hack It?](https://markhebing.github.io/if-you-know-the-twelve-words-in-a-bitcoin-wallet-recovery-seed-but-not-their-order-can-you-hack-it/)
