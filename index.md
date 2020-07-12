@@ -1,6 +1,4 @@
-# About Me
-
-Currently studying coding and looking to developing a second professional career. Interested in learning how to develop applications used to automate anything and everything from websites to robots. Eventually, I would like to freelance remotely and perhaps develop and sell my own websites and apps. I have included a link to a database of python scripts I have personally written that are based around function building as well as scientific and engineering scripts, artificial intelligence, and data mining.
+**About Me** ... Currently studying coding and looking to developing a second professional career. Interested in learning how to develop applications used to automate anything and everything from websites to robots. Eventually, I would like to freelance remotely and perhaps develop and sell my own websites and apps. I have included a link to a database of python scripts I have personally written that are based around function building as well as scientific and engineering scripts, artificial intelligence, and data mining.
 
 Find the database here: [SCRIPTS](https://github.com/markhebing/python-scripts)
 
