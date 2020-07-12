@@ -4,7 +4,9 @@ Find the database here: [SCRIPTS](https://github.com/markhebing/python-scripts)
 
 # Certifications
 
-Do real "certifications" for python even exist???
+Currently working to obtain the "Responsive Web Design Certification" from freeCodeCamp.org.
+
+View my progress portfolio here: [https://www.freecodecamp.org/fcc3f367a4a-0540-4169-be91-1f51123eec94](https://www.freecodecamp.org/fcc3f367a4a-0540-4169-be91-1f51123eec94)
 
 # Posts
 
