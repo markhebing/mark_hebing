@@ -23,7 +23,7 @@ Well, the answer is yes. You could actually do it with this simple python script
     counter_10 = 0
     counter_11 = 0
     
-    seed = ("word_1", "word_2", "word_3", "word_4", "word_5", "word_6", "word_7", "word_8", "word_9", "word_10", "word_11", "word_12")
+    seed = ("word1", "word2", "word3", "word4", "word5", "word6", "word7", "word8", "word9", "word10", "word11", "word12")
     seed_random = list(seed)
     seed_guess = list(seed)
        
