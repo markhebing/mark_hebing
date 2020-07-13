@@ -4,7 +4,9 @@ Find the repository here: [SCRIPTS](https://github.com/markhebing/python-scripts
 
 # Certifications
 
-Currently working to obtain the following certifications from freeCodeCamp.org:
+**Completed:**  [Python 3](https://www.sololearn.com/Certificate/1073-15576057/pdf/) from Sololearn.com
+
+**Currently working to obtain the following certifications from freeCodeCamp.org:**
 
     Responsive Web Design
     JavaScript Algorithms and Data Structures
