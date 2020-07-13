@@ -2,7 +2,7 @@
 
 **Linkedin:** [Mark Hebing](https://www.linkedin.com/in/markhebing)
 
-Find the aforementioned script repository here: [SCRIPTS](https://github.com/markhebing/python-scripts)
+**Find the aforementioned script repository here:** [SCRIPTS](https://github.com/markhebing/python-scripts)
 
 # Certifications
 
