@@ -1,4 +1,12 @@
-<img align="left" src="https://markhebing.github.io/images/MarkHebing33.jpeg">**About:**  I am an industrial chemist by trade. Currently studying coding and looking to developing scientific and engineering applications specific to the energy and chemical industries. Interested in learning how to develop applications used to automate everything from websites to robots. Eventually, I would like to freelance remotely and perhaps develop and sell my own websites and apps. I have included a link to a database of simple python scripts I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
+<img align="left" src="https://markhebing.github.io/images/MarkHebing33.jpeg">**About:**  I am an industrial chemist by trade. Currently studying coding and looking to developing scientific and engineering applications specific to the energy and chemical industries.
+
+Interested in learning how to develop applications used to automate everything from websites to robots. Eventually, I would like to freelance remotely and perhaps develop and sell my own websites and apps. 
+
+I have included a link to a database of simple python scripts I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
+
+I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between them and deep quantum physics.
+
+Special Interests:   Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic
 
 **Linkedin:** [Mark Hebing](https://www.linkedin.com/in/markhebing)
 
