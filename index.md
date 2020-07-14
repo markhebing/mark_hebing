@@ -21,7 +21,7 @@ Degree Name: Bachelor of Science
 
 Field Of Study: Chemistry
 
-Grade:Magna Cum Laude
+Grade: Magna Cum Laude
 
 Dates attended or expected graduation: 1993 – 1999
 
