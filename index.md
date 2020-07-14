@@ -12,6 +12,22 @@ Special Interests:   Chemical Physics, Nuclear Magnetic Resonance Physics, Mass 
 
 **Find the aforementioned script repository here:** [SCRIPTS](https://github.com/markhebing/python-scripts)
 
+
+# Education
+
+**Louisiana Tech University**
+
+Degree Name: Bachelor of Science
+
+Field Of Study: Chemistry
+
+Grade:Magna Cum Laude
+
+Dates attended or expected graduation: 1993 – 1999
+
+College of Engineering and Science
+
+
 # Certifications
 
 **Completed:**  [Python 3](https://www.sololearn.com/Certificate/1073-15576057/pdf/) from Sololearn.com
