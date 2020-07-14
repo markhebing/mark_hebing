@@ -2,7 +2,7 @@
 
 Interested in learning how to develop applications used to automate everything from websites to robots. Eventually, I would like to freelance remotely and perhaps develop and sell my own websites and apps. 
 
-I have included a link to a [database](https://github.com/markhebing/python-scripts) of simple python scripts I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
+I have included a link to a [repository](https://github.com/markhebing/python-scripts) of simple python scripts I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
 I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between them and deep quantum physics.
 
