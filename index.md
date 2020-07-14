@@ -17,10 +17,10 @@ Special Interests:   Chemical Physics, Nuclear Magnetic Resonance Physics, Mass 
 
 **Louisiana Tech University - College of Engineering and Science**
 
-Degree: Bachelor of Science
-Field Of Study: Chemistry
-Grade: Magna Cum Laude
-Dates attended: 1993 – 1999
+    Degree: Bachelor of Science
+    Field Of Study: Chemistry
+    Grade: Magna Cum Laude
+    Dates attended: 1993 – 1999
 
 # Certifications
 
