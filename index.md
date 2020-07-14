@@ -8,6 +8,8 @@
 
 **Completed:**  [Python 3](https://www.sololearn.com/Certificate/1073-15576057/pdf/) from Sololearn.com
 
+**Currently working on:** [Javascript](https://www.sololearn.com/Course/JavaScript/)
+
 **Currently working to obtain the following certifications from freeCodeCamp.org:**
 
     Responsive Web Design
