@@ -45,4 +45,3 @@ View my progress portfolio here: [https://www.freecodecamp.org/fcc3f367a4a-0540-
 
 # Project Posts
 
-## [If You Know The Twelve Words In A Bitcoin Wallet Recovery Seed, But Not Their Order, Can You Hack It?](https://markhebing.github.io/if-you-know-the-twelve-words-in-a-bitcoin-wallet-recovery-seed-but-not-their-order-can-you-hack-it/)
