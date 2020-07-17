@@ -1,24 +1,23 @@
-<img align="left" src="https://markhebing.github.io/images/MarkHebing33.jpeg">**About:**  I am an industrial chemist by trade. Currently studying coding and looking to developing scientific and engineering applications specific to the energy and chemical industries.
+<img align="left" src="https://markhebing.github.io/images/MarkHebing33.jpeg">**About:**  I am an industrial chemist by trade. Currently studying coding and looking to develop scientific and engineering applications specific to the energy and chemical industries.
 
-Interested in learning how to develop applications used to automate everything from websites to robots. Eventually, I would like to freelance remotely and perhaps develop and sell my own websites and apps. 
+Interested in learning how to cod  applications used to automate everything from interactive websites to analytical instrumentation and robots for fun. Eventually, I would like to freelance remotely and perhaps develop and sell my own websites and apps. 
 
 I have included a link to a [repository](https://github.com/markhebing/python-scripts) of simple python scripts I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
-I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between them and advanced quantum physics.
+**Sidenote:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between them and advanced quantum physics...specifically, dark matter physics.
 
-**Special Interests:**   Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic
+**Special Interests:**   Analytical Chemistry, Phase Behavior, Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic
 
 **Linkedin:** [Mark Hebing](https://www.linkedin.com/in/markhebing)
 
 **Find the aforementioned script repository here:** [SCRIPTS](https://github.com/markhebing/python-scripts)
 
-
 # Education
 
 **Louisiana Tech University - College of Engineering and Science**
-
-    Degree: Bachelor of Science
+    
     Field Of Study: Chemistry
+    Degree: Bachelor of Science
     Grade: Magna Cum Laude
     Dates attended: 1993 – 1999
 
