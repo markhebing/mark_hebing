@@ -12,7 +12,7 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 **Linkedin:** [Mark Hebing](https://www.linkedin.com/in/markhebing)
 
-**Find the aforementioned script repository here:** [SCRIPTS](https://github.com/markhebing/python-scripts)
+**Find the aforementioned script repository here:** [PYTHON SCRIPTS](https://github.com/markhebing/python-scripts), [HTML Embeded Javascipt Scripts](https://github.com/markhebing/javascripts)
 
 # Education
 
