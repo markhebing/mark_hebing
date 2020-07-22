@@ -46,4 +46,4 @@ View my progress portfolio here: [https://www.freecodecamp.org/fcc3f367a4a-0540-
 
 # Blog Posts
 
-[markhebing.github.io/blog](https://markhebing.github.io/blog)
+Check out my blog posts and articles where will find coding and automation in real science and engineering: [Science and Engineering Automation Blog](https://markhebing.github.io/blog)
