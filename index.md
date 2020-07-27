@@ -6,7 +6,7 @@ I have personally found coding to be both challenging and rewarding and a very d
 
 I have included a link to a growing repository of [simple python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of [HTML embeded javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
-**Sidenote:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced quantum physics/boolean logic, chemistry/machine code, biology/artificial intelligence...Additionally, of specific relevance are dark matter physics.
+**Sidenote:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced quantum physics/boolean logic, chemistry/machine code, biology/artificial intelligence...Additionally, of specific relevance are non-public dark matter physics.
 
 **Special Interests:** Analytical Chemistry, Phase Behavior, Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic
 
