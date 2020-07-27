@@ -2,7 +2,7 @@
 
 Interested in learning how to code applications used to automate everything from interactive websites to analytical instrumentation and robots for fun.
 
-I have personally found coding to be both challenging and reqarding and a very diverse field of study, much like chemistry.
+I have personally found coding to be both challenging and rewarding and a very diverse field of study, much like chemistry.
 
 I have included a link to a growing repository of [simple python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of [HTML embeded javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
