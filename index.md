@@ -1,4 +1,6 @@
-<img align="left" src="https://markhebing.github.io/images/MarkHebing33.jpeg">**About:**  I am an analytical and physical chemist by trade working for [Linde PLC](https://en.m.wikipedia.org/wiki/Linde_plc). Currently studying coding and looking to develop scientific and engineering applications specific to the energy and chemical industries.
+<img align="left" src="https://markhebing.github.io/images/MarkHebing33.jpeg">**Advertisement:** Hedge against inflation! [Buy Bitcoin](https://www.coinbase.com/join/hebing_9)
+
+**About:**  I am an analytical and physical chemist by trade working for [Linde PLC](https://en.m.wikipedia.org/wiki/Linde_plc). Currently studying coding and looking to develop scientific and engineering applications specific to the energy and chemical industries.
 
 Interested in learning how to code applications used to automate everything from interactive websites to analytical instrumentation and robots for fun.
 
