@@ -29,9 +29,9 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 # Certifications
 
-**Completed:**  [Python 3](https://www.sololearn.com/Certificate/1073-15576057/pdf/) from Sololearn.com
+**Completed:**  Python 3 from Sololearn.com
 
-**Currently working on:** [Javascript](https://www.sololearn.com/Course/JavaScript/) at Sololearn.com
+**Completed:** Javascript at Sololearn.com
 
 **Currently working to obtain the following certifications from freeCodeCamp.org:**
 
