@@ -48,6 +48,5 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 View my progress portfolio here: [https://www.freecodecamp.org/fcc3f367a4a-0540-4169-be91-1f51123eec94](https://www.freecodecamp.org/fcc3f367a4a-0540-4169-be91-1f51123eec94)
 
-# Blog Posts
+# Posts
 
-Check out my blog posts and articles where will find coding and automation in real science and engineering: [Science and Engineering Automation Blog](https://markhebing.github.io/blog)
