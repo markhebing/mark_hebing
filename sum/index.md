@@ -6,9 +6,6 @@
             return z;}
         </script>
         <script>
-            document.write("The sum is: " + addition(50, 50) + "</br>");
-        </script>
-        <script>
             var a = parseInt(prompt("Input A"));
             var b = parseInt(prompt("Input B"));
             var c = a + b;
