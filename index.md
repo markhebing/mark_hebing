@@ -25,7 +25,7 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 # Certifications
 
-**Completed:**  Python 3 from Sololearn.com
+**Completed:**  [Python 3](https://markhebing.github.io/certifications/cert-1024-15576057.pdf) from Sololearn.com
 
 **Completed:** [Javascript](https://markhebing.github.io/certifications/cert-1024-15576057.pdf) at Sololearn.com
 
