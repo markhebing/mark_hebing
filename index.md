@@ -27,7 +27,7 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 **Completed:**  Python 3 from Sololearn.com
 
-**Completed:** Javascript at Sololearn.com
+**Completed:** [Javascript](https://markhebing.github.io/certifications/cert-1024-15576057.pdf) at Sololearn.com
 
 **Currently working to obtain the following certifications from freeCodeCamp.org:**
 
