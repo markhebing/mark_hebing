@@ -31,7 +31,7 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 **Completed:**   [Javascript](https://markhebing.github.io/certifications/cert-1024-15576057.pdf) ... Sololearn.com
 
-**Pending:**   [PHP](https://markhebing.github.io/certifications/cert-1059-15576057.pdf) ... Sololearn.com
+**Completed:**   [PHP](https://markhebing.github.io/certifications/cert-1059-15576057.pdf) ... Sololearn.com
 
 **Currently working to obtain the following certifications from freeCodeCamp.org:**
 
