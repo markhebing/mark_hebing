@@ -27,25 +27,11 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 # Certifications
 
-**Completed:**   [Python 3](https://markhebing.github.io/certifications/cert-1073-15576057.pdf) ... Sololearn.com
+**Completed:**   [Python 3](https://markhebing.github.io/certifications/cert-1073-15576057.pdf)
 
-**Completed:**   [Javascript](https://markhebing.github.io/certifications/cert-1024-15576057.pdf) ... Sololearn.com
+**Completed:**   [Javascript](https://markhebing.github.io/certifications/cert-1024-15576057.pdf)
 
-**Completed:**   [PHP](https://markhebing.github.io/certifications/cert-1059-15576057.pdf) ... Sololearn.com
-
-**Currently working to obtain the following certifications from freeCodeCamp.org:**
-
-    Responsive Web Design
-    JavaScript Algorithms and Data Structures
-    Front End Libraries
-    Data Visualization
-    APIs and Microservices
-    Quality Assurance
-    Scientific Computing with Python
-    Data Analysis with Python
-    Information Security
-    Machine Learning with Python
-
-View my progress portfolio here: [https://www.freecodecamp.org/fcc3f367a4a-0540-4169-be91-1f51123eec94](https://www.freecodecamp.org/fcc3f367a4a-0540-4169-be91-1f51123eec94)
+**Completed:**   [PHP](https://markhebing.github.io/certifications/cert-1059-15576057.pdf)
 
 # Science and Engineering Scripts and Calculators
+
