@@ -14,7 +14,6 @@
             <label for="v2">Enter volume 2:</label>
             <input type="text" id="v2"><br/><br/>
             <button>Submit</button>
-            <input type="reset">
          </form>
          <script>
              function calculate_missing_variable(p1, v1, p2, v2)
