@@ -35,7 +35,7 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 # Science and Engineering Scripts and Calculators
 
-Ideal Gas Law(https://markhebing.github.io/ideal-gas-law)
+[Ideal Gas Law](https://markhebing.github.io/ideal-gas-law)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HCZL4J5WDE"></script>
