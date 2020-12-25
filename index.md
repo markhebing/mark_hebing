@@ -38,11 +38,11 @@ I have included a link to a growing repository of [simple python scripts](https:
 .
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FMZ62K1DMC"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HCZL4J5WDE"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-FMZ62K1DMC');
+  gtag('config', 'G-HCZL4J5WDE');
 </script>
