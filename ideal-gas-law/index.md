@@ -22,29 +22,33 @@
                 var v1=document.getElementById("v1").value;
                 var p2=document.getElementById("p2").value;
                 var v2=document.getElementById("v2").value;
-                if (p1 == "")
+                if (p1 == "" && v1 != "" && p2 != "" && v2 != "")
                 {
                     p1 = p2 * v2 / v1;
                     document.write("Pressure 1 = " + p1 + "<br/><br/>");
                     document.write("Reload page to perform another calculation.");
                 }
-                if (v1 == "")
+                else if (v1 == "" && p1 != "" && p2 != "" && v2 != "")
                 {
                     v1 = p2 * v2 / p1;
                     document.write("Volume 1 = " + v1+ "<br/><br/>");
                     document.write("Reload page to perform another calculation.");
                 }
-                if (p2 == "")
+                else if (p2 == "" && v2 != "" && p1 != "" && v1 != "")
                 {
                     p2 = p1 * v1 / v2;
                     document.write("Pressure 2 = " + p2+ "<br/><br/>");
                     document.write("Reload page to perform another calculation.");
                 }
-                if (v2 == "")
+                else if (v2 == "" && p2 != "" && p1 != "" && v1 != "")
                 {
                     v2 = p1 * v1 / p2;
                     document.write("Volume 2 = " + v2+ "<br/><br/>");
                     document.write("Reload page to perform another calculation.");
+                }
+                else
+                {
+                    document.write("Missing values. Reload page and input three out of the four values to perform calculation.");
                 }
             }
          </script>
