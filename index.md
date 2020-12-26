@@ -35,6 +35,8 @@ I have included a link to a growing repository of [simple python scripts](https:
 
 # Science and Engineering Scripts and Calculators
 
+Need an online tool or calculator that you can reference and use easily? Contact me at markhebing.github.io@gmail.com and I will build it for free and put it in the list below. I use opportunities such as these to improve my Javascript programming skills.
+
 [Ideal Gas Law](https://markhebing.github.io/ideal-gas-law)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
