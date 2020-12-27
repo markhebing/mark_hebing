@@ -6,7 +6,7 @@ I have personally found coding to be both challenging and rewarding and a very d
 
 I have included a link to a growing repository of [simple python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of [HTML embeded javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
-Additionally, included at the bottom of this page[bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser that are free to use. If you have a calculator that you would like to use, send me a request at **markhebing.github.io@gmail.com** and if we can figure out how to make it work, I will add it to the list and you will be free to use it indefinitely.
+Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser that are free to use. If you have a calculator that you would like to use, send me a request at **markhebing.github.io@gmail.com** and if we can figure out how to make it work, I will add it to the list and you will be free to use it indefinitely.
 
 **Sidenote:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced quantum physics / boolean logic, chemistry / machine code, biology / artificial intelligence ... Of specific relevance are dark matter physics.
 
@@ -41,9 +41,9 @@ Need an online tool or calculator that you can reference and use easily? Contact
 
 #science-and-engineering-scripts-and-calculators
 
-[Ideal Gas Law](https://markhebing.github.io/ideal-gas-law)
-
 [Convert Grams To Moles For Any Element](https://markhebing.github.io/grams-to-moles/)
+
+[Ideal Gas Law](https://markhebing.github.io/ideal-gas-law)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HCZL4J5WDE"></script>
