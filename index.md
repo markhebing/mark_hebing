@@ -18,7 +18,7 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 **Find the aforementioned script repository here:** [PYTHON SCRIPTS](https://github.com/markhebing/python-scripts), [HTML Embeded Javascipt Scripts](https://github.com/markhebing/javascripts)
 
-# Education
+# University Education
 
 **Louisiana Tech University - College of Engineering and Science**
     
@@ -27,7 +27,7 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
     Grade: Magna Cum Laude
     Dates attended: 1993 – 1999
 
-# Certifications
+# Programming Certifications
 
 **Completed:**   [Python 3](https://markhebing.github.io/certifications/cert-1073-15576057.pdf)
 
