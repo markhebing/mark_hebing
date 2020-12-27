@@ -39,8 +39,6 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 Need an online tool or calculator that you can reference and use easily? Contact me at **markhebing.github.io@gmail.com** and I will build it for free and put it in the list below. I use opportunities such as these to improve my Javascript programming skills.
 
-#science-and-engineering-scripts-and-calculators
-
 [Convert Grams To Moles For Any Element](https://markhebing.github.io/grams-to-moles/)
 
 [Ideal Gas Law](https://markhebing.github.io/ideal-gas-law)
