@@ -834,7 +834,7 @@
                 
                 else
                 {
-                    document.write("Missing or incorrect values. Reload page and input three out of the four values to perform calculation.");
+                    document.write("Missing or incorrect values. Reload page and input the element name and the number of grams to be converted to moles.");
                 }
             }
             </script>
