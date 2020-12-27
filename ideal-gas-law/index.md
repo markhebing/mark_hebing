@@ -1,3 +1,4 @@
+<h1>Use the Ideal Gas Law to Determine a Change in Pressure or Volume</h1>
 <p>The Ideal Gas Law states that pressure * volume  = moles * constant * temperature.</p>
 <p>Therefore, if moles and temperature remain the same, it stands to reason that if either pressure or volume change, then the change in the accompanying value can be calculated.</p>
 <p>P1 * V1 = P2 * V2</p>
