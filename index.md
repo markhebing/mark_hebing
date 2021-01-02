@@ -2,7 +2,7 @@
 
 Here is a link to my [Github Profile](https://github.com/markhebing).
 
-Interested in learning how to code applications used in automation. I have personally found coding to be both challenging and rewarding and a very diverse field of study, much like chemistry. My interest in coding is largely based on dark matter quantum computing theory...specifically **AND GATE** architecture.
+Interested in learning how to code applications used in automation. I have personally found coding to be both challenging and rewarding and a very diverse field of study, much like chemistry. My interest in coding is largely based on dark matter quantum computing theory...specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture.
 
 I have included a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
