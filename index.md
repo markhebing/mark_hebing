@@ -6,7 +6,7 @@ Interested in learning how to code applications used in automation. I have perso
 
 I have included a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
-Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser that are free to use. If you have a calculator that you would like to use, send me a request at **markhebing.github.io@gmail.com** and if we can figure out how to make it work, I will add it to the list and you will be free to use it indefinitely.
+Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser that are free to use. If you have a calculator that you would like to use, send me a request at **markhebing.github.io@gmail.com** and I will add it to the list below.
 
 **Sidenote:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced quantum physics / boolean logic, chemistry / machine code, biology / artificial intelligence ... Of specific relevance are dark matter physics.
 
@@ -37,7 +37,7 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 # Science and Engineering Scripts and Calculators
 
-Need an online tool or calculator that you can reference and use easily? Contact me at **markhebing.github.io@gmail.com** and I will build it and put it in the list below.
+Custom Javascript solutions ... Contact me at **markhebing.github.io@gmail.com**.
 
 [Convert Grams To Moles For Any Element](https://markhebing.github.io/grams-to-moles/)
 
