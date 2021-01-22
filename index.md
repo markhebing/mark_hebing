@@ -1,6 +1,6 @@
 <img align = "left" style="padding-right: 25px; padding-bottom: 20px;" src = "https://markhebing.github.io/images/MarkHebing33.jpeg" alt="Mark Hebing">**About:**  An analytical and physical chemist by trade working for [Linde PLC](https://en.m.wikipedia.org/wiki/Linde_plc). Currently studying coding and looking to develop scientific and engineering applications specific to the energy and chemical industries.
 
-Interested in learning how to code applications used in automation. I have personally found coding to be both challenging and rewarding and a very diverse field of study, much like chemistry. My interest in coding is largely based on dark matter quantum computing theory...specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture.
+Interested in learning how to code applications used in automation. I have personally found coding to be both challenging and rewarding and a very diverse field of study, much like chemistry. My interest in coding is largely based on dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture.
 
 Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
