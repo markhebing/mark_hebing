@@ -1,14 +1,14 @@
-<img align = "left" style="padding-right: 25px; padding-bottom: 20px;" src = "https://markhebing.github.io/images/MarkHebing33.jpeg" alt="Mark Hebing">**About Me:**  I am an analytical and physical chemist by trade working for [Linde PLC](https://en.m.wikipedia.org/wiki/Linde_plc). Currently studying coding and looking to develop scientific and engineering applications specific to the energy and chemical industries.
+<img align = "left" style="padding-right: 25px; padding-bottom: 20px;" src = "https://markhebing.github.io/images/MarkHebing33.jpeg" alt="Mark Hebing">**About:**  An analytical and physical chemist by trade working for [Linde PLC](https://en.m.wikipedia.org/wiki/Linde_plc). Currently studying coding and looking to develop scientific and engineering applications specific to the energy and chemical industries.
 
-Here is a link to my [Github Profile](https://github.com/markhebing).
+[Github Profile](https://github.com/markhebing).
 
 Interested in learning how to code applications used in automation. I have personally found coding to be both challenging and rewarding and a very diverse field of study, much like chemistry. My interest in coding is largely based on dark matter quantum computing theory...specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture.
 
-I have included a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
+Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
 
 Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser that are free to use. If you have a calculator that you would like to use, send me a request at **markhebing.github.io@gmail.com** and I will add it to the list below.
 
-**Sidenote:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced quantum physics / boolean logic, chemistry / machine code, biology / artificial intelligence ... Of specific relevance are dark matter physics.
+**Personal Note:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced quantum physics / boolean logic, chemistry / machine code, biology / artificial intelligence ... Of specific relevance are dark matter physics.
 
 **Special Interests:** Analytical Chemistry, Phase Behavior, Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic, Isotope Architecture Mass Offset
 
