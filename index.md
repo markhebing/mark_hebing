@@ -2,7 +2,7 @@
 
 Interested in learning how to code applications used in automation. I have personally found coding to be both challenging and rewarding and a very diverse field of study, much like chemistry. My interest in coding is largely based on dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture.
 
-Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations, as well as a small amount of artificial intelligence and data mining.
+Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations as well as a small amount of artificial intelligence and data mining.
 
 Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser that are free to use. If you have a calculator that you would like to use, send me a request at **markhebing.github.io@gmail.com** and I will add it to the list below.
 
