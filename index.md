@@ -37,7 +37,7 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 # Science and Engineering Scripts and Calculators
 
-Custom Javascript solutions ... Contact me at **markhebing.github.io@gmail.com**.
+For custom Javascript solutions for use in engineering and science, contact me at **markhebing.github.io@gmail.com**.
 
 [Convert Grams To Moles For Any Element](https://markhebing.github.io/grams-to-moles/)
 
