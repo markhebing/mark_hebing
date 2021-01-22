@@ -43,7 +43,7 @@ For custom Javascript solutions for use in engineering and science, contact me a
 
 [Ideal Gas Law](https://markhebing.github.io/ideal-gas-law/)
 
-**Copyright 2021 markhebing.github.io**
+**Copyright © 2021 markhebing.github.io**
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HCZL4J5WDE"></script>
