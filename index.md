@@ -6,7 +6,7 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 
 Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser that are free to use. If you have a calculator that you would like to use, send me a request at **markhebing.github.io@gmail.com** and I will add it to the list below.
 
-**Personal Note:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced dark matter quantum physics / boolean logic, chemistry / machine code, biology / artificial intelligence ... Of specific relevance are dark matter physics.
+**Personal Note:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced dark matter quantum physics / boolean logic, chemistry / machine code, biology / artificial intelligence ... Of special relevance are dark matter physics.
 
 **Special Interests:** Analytical Chemistry, Phase Behavior, Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic, Isotope Architecture Mass Offset
 
