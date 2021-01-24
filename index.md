@@ -43,7 +43,7 @@ For custom Javascript solutions for use in engineering and science, contact me a
 
 [Convert Grams To Moles For Any Element](https://markhebing.github.io/grams-to-moles/)
 
-[Ideal Gas Law](https://markhebing.github.io/ideal-gas-law/)
+[Calculate a Change in Pressure or Temperature Using the Ideal Gas Law](https://markhebing.github.io/ideal-gas-law/)
 
 [Convert Random Natural Numers to Binary Numbers](https://markhebing.github.io/base2/)
 
