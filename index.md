@@ -43,6 +43,8 @@ For custom Javascript solutions for use in engineering and science, contact me a
 
 [Ideal Gas Law](https://markhebing.github.io/ideal-gas-law/)
 
+[Convert Random Natural Numers to Binary Numbers](https://markhebing.github.io/base2/)
+
 ---
 
 **Copyright © 2021 markhebing.github.io**
