@@ -2,9 +2,7 @@
 
 Interested in learning how to code applications used in automation. I have personally found coding to be both challenging and rewarding and a very diverse field of study, much like chemistry. My interest in coding is largely the result of interest in dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture, a natural extension of optical and chemical physics.
 
-Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations as well as a small amount of artificial intelligence and data mining.
-
-Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser.
+Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations as well as a small amount of artificial intelligence and data mining. Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser.
 
 **Personal Note:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced dark matter quantum physics / boolean logic, chemistry / machine code, biology / artificial intelligence ... Of **special relevance** are dark matter physics ... no pun intended ;)
 
