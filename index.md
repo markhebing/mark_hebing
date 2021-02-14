@@ -6,7 +6,7 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 
 **Personal Note:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced dark matter quantum physics => boolean logic, chemistry => machine code, biology => scripting and artificial intelligence ... Of **special relevance** are dark matter physics ... no pun intended ;)
 
-**Special Interests:** Analytical Chemistry, Phase Behavior, Chemical Physics, Dark Matter Chemistry, Dark Matter Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic, Isotope Architecture Mass Offset
+**Special Interests of Specific Relevance:** Analytical Chemistry, Phase Behavior, Chemical Physics, Dark Matter Chemistry, Dark Matter Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic, Isotope Architecture Mass Offset
 
 **Github:** [Mark Hebing](https://github.com/markhebing)
 
