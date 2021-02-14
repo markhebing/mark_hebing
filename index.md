@@ -4,7 +4,7 @@ Interested in learning how to code applications used in automation. I have perso
 
 Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations as well as a small amount of artificial intelligence and data mining. Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser.
 
-**Personal Note:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced dark matter quantum physics / boolean logic, chemistry / machine code, biology / artificial intelligence ... Of **special relevance** are dark matter physics ... no pun intended ;)
+**Personal Note:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between advanced dark matter quantum physics => boolean logic, chemistry => machine code, biology => scripting and artificial intelligence ... Of **special relevance** are dark matter physics ... no pun intended ;)
 
 **Special Interests:** Analytical Chemistry, Phase Behavior, Chemical Physics, Dark Matter Chemistry, Dark Matter Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic, Isotope Architecture Mass Offset
 
