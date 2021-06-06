@@ -6,9 +6,9 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 
 **Personal Note:** I am fascinated by both computer architecture as well coding logic due to the notable parallels I have found between...
 
-advanced dark matter quantum physics => boolean logic
-chemistry => machine code
-biology => scripting and artificial intelligence
+*advanced dark matter quantum physics => boolean logic
+*chemistry => machine code
+*biology => scripting and artificial intelligence
 
 Of **special relevance** are dark matter physics ... no pun intended ;)
 
