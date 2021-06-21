@@ -28,7 +28,7 @@ Of **special relevance** are dark matter physics ... no pun intended ;)
     
     Field Of Study: Chemistry
     Degree: Bachelor of Science
-    Grade: Magna Cum Laude
+    Grade: Magna Cum Laude, G.P.A. 3.6/4.0
     Dates attended: 1993 – 1999
 
 # Programming Certifications
