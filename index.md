@@ -12,7 +12,7 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 
 Of **special relevance** are dark matter physics ... no pun intended ;)
 
-**Special Interests of Specific Relevance:** Analytical Chemistry, Phase Behavior, Chemical Physics, Dark Matter Chemistry, Dark Matter Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic, Isotope Architecture Mass Offset
+**Special Interests of Specific Relevance:** Analytical Chemistry, Phase Behavior, Chemical Physics, Dark Matter Chemistry, Dark Matter Chemical Physics, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic, Isotope Architecture Mass Offset, Advanced Dark Matter Isotope Materials, Para-Mass-Effect-Relativity
 
 **Github:** [Mark Hebing](https://github.com/markhebing)
 
