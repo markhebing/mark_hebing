@@ -43,7 +43,7 @@ Of **special relevance** are dark matter physics ... no pun intended ;)
 
 **Completed:**   [PHP](https://markhebing.github.io/certifications/cert-1059-15576057.pdf)
 
-**Pending:**   HTML
+**Pending:**   [HTML](https://markhebing.github.io/certifications/cert-1014-15576057.pdf)
 
 # Science and Engineering Scripts and Calculators
 
