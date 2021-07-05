@@ -57,7 +57,7 @@ Custom Javascript solutions (S.A.A.S.) for use in engineering and science. Conta
 
 ---
 
-**Copyright © 2021 markhebing.github.io**
+**Copyright © 2020-2034 markhebing.github.io**
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HCZL4J5WDE"></script>
