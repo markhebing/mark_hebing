@@ -30,10 +30,10 @@ Included is a link to a growing repository of simple [python scripts](https://gi
     
     Field Of Study: Chemistry
     Degree: Bachelor of Science
-    Grade: Magna Cum Laude, G.P.A. 3.6/4.0
+    Grade: G.P.A. 3.6/4.0, Magna Cum Laude
     Dates attended: 1993 – 1999
 
-# Programming Certifications
+# Programming Certificates
 
 **Completed:**   [Python 3](https://markhebing.github.io/certifications/cert-1073-15576057.pdf)
 
@@ -46,8 +46,6 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 **Pending:**  Java
 
 # Science and Engineering Scripts and Calculators
-
-Custom Javascript solutions (S.A.A.S.) for use in engineering and science. Contact me at **markhebing.github.io@gmail.com**.
 
 [Convert Grams To Moles For Any Element](https://markhebing.github.io/grams-to-moles/)
 
