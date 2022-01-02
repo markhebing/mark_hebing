@@ -43,7 +43,7 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 
 **Completed:**   [HTML](https://markhebing.github.io/certifications/cert-1014-15576057.pdf)
 
-**Pending:**  Java
+**Pending:**  CSS
 
 # Science and Engineering Scripts and Calculators
 
