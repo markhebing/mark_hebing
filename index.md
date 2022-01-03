@@ -4,7 +4,7 @@ Primarily involved in the development of methodologies used in the analysis, for
 
 Looking to develop scientific and engineering applications specific to energy, petrochemical, commodity, electronics manufacturing and nuclear industries, specifically focusing on coding applications used in calculation and/or automation.
 
-My interest in coding began with and is largely the result of interest in dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture, a natural extension of the optical and chemical physics used in [NMR](https://en.m.wikipedia.org/wiki/Nuclear_magnetic_resonance)-based [analytical chemistry](https://en.m.wikipedia.org/wiki/Analytical_chemistry)/[instrumental analysis](https://en.m.wikipedia.org/wiki/Instrumental_chemistry).
+My interest in coding began with and is largely the result of interest in dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture, a natural extension of the optical and chemical physics used in [NMR](https://en.m.wikipedia.org/wiki/Nuclear_magnetic_resonance)-based [analytical chemistry](https://en.m.wikipedia.org/wiki/Analytical_chemistry) / [instrumental analysis](https://en.m.wikipedia.org/wiki/Instrumental_chemistry).
 
 Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations as well as a small amount of artificial intelligence and data mining.
 
