@@ -2,9 +2,9 @@
 
 Primarily involved in the development of methodologies used in the analysis, formulation, phase behavior modeling of and/or thermal decomposition (detonation) potential modeling of a large variety of specialty chemicals as well as gas and liquid mixture classes.
 
-Currently studying coding and looking to develop scientific and engineering applications specific to energy, petrochemical, commodity, electronics manufacturing and nuclear industries, specifically focusing on coding applications used in calculation and/or automation.
+Looking to develop scientific and engineering applications specific to energy, petrochemical, commodity, electronics manufacturing and nuclear industries, specifically focusing on coding applications used in calculation and/or automation.
 
-On a personal note, I have found coding to be both fun and rewarding and a very diverse field of study, much like chemistry. My interest in coding began with and is largely the result of interest in dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture, a natural extension of optical and chemical physics.
+My interest in coding began with and is largely the result of interest in dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture, a natural extension of optical and chemical physics.
 
 Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations as well as a small amount of artificial intelligence and data mining. Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in your browser.
 
