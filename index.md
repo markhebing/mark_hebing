@@ -45,10 +45,6 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 
 **Pending:**  CSS
 
-# Articles and Posts
-
-
-
 # Science and Engineering Scripts and Calculators
 
 [Convert Grams To Moles For Any Element](https://markhebing.github.io/grams-to-moles/)
@@ -56,6 +52,10 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 [Calculate a Change in Pressure or Temperature Using the Ideal Gas Law](https://markhebing.github.io/ideal-gas-law/)
 
 [Convert Random Natural Numers to Binary Numbers](https://markhebing.github.io/base2/)
+
+# Random Articles and Posts
+
+
 
 ---
 
