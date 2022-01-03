@@ -22,7 +22,7 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 **Linkedin:** [Mark Hebing](https://www.linkedin.com/in/markhebing)
 
-**Contact Me:** markhebing.github.io@gmail.com
+**Contact Me:** markhebing.github.io at gmail.com
 
 **Find the aforementioned script repository here:** [PYTHON SCRIPTS](https://github.com/markhebing/python-scripts), [HTML Embeded Javascipt Scripts](https://github.com/markhebing/javascripts)
 
