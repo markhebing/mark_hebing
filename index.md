@@ -10,7 +10,7 @@ Included is a link to a growing repository of simple [python scripts](https://gi
 
 Additionally, included at the [bottom of this page](#science-and-engineering-scripts-and-calculators) is a growing list of scientific and engineering Javascripts that run in any web browser.
 
-**Personal Note:** I am intrigued by both computer architecture as well coding logic due to the notable parallels I have found between...
+**Personal Note:** I am intrigued by both computer architecture as well as coding logic due to the notable parallels I have found between...
 
 * advanced dark matter quantum physics => boolean logic
 * chemistry => machine code
