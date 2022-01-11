@@ -2,7 +2,7 @@
 
 Primarily involved in the development of methodologies used in the analysis, formulation, phase behavior modeling of and/or thermal decomposition (detonation) potential modeling of a large variety of specialty chemicals as well as gas and liquid mixture classes.
 
-Currently studying coding as a hobby and looking to develop scientific and engineering applications specific to energy, petrochemical, commodity, electronics manufacturing and nuclear industries, specifically focusing on coding applications used in calculation and/or automation.
+Studying coding to develop scientific and engineering applications specific to energy, petrochemical, commodity, electronics manufacturing and nuclear industries, specifically focusing on coding applications used in calculation and/or automation.
 
 My interest in coding began with and is largely the result of interest in dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture, a natural extension of the optical and chemical physics used in [NMR](https://en.m.wikipedia.org/wiki/Nuclear_magnetic_resonance)-based [analytical chemistry](https://en.m.wikipedia.org/wiki/Analytical_chemistry) / [instrumental analysis](https://en.m.wikipedia.org/wiki/Instrumental_chemistry).
 
