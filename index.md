@@ -45,7 +45,7 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 **Completed:**   [HTML](https://markhebing.github.io/certifications/cert-1014-15576057.pdf)
 
-**Pending:**  CSS
+**Pending:**  [CSS] (https://markhebing.github.io/certifications/cert-1023-15576057.pdf)
 
 # Science and Engineering Scripts and Calculators
 
