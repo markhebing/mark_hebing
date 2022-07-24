@@ -37,15 +37,17 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 # Programming Certificates
 
-**Completed:**   [Python 3](https://markhebing.github.io/certifications/cert-1073-15576057.pdf)
+**Completed:**  [Python 3](https://markhebing.github.io/certifications/cert-1073-15576057.pdf)
 
-**Completed:**   [Javascript](https://markhebing.github.io/certifications/cert-1024-15576057.pdf)
+**Completed:**  [Javascript](https://markhebing.github.io/certifications/cert-1024-15576057.pdf)
 
-**Completed:**   [PHP](https://markhebing.github.io/certifications/cert-1059-15576057.pdf)
+**Completed:**  [PHP](https://markhebing.github.io/certifications/cert-1059-15576057.pdf)
 
-**Completed:**   [HTML](https://markhebing.github.io/certifications/cert-1014-15576057.pdf)
+**Completed:**  [HTML](https://markhebing.github.io/certifications/cert-1014-15576057.pdf)
 
-**Pending:**  [CSS](https://markhebing.github.io/certifications/cert-1023-15576057.pdf)
+**Completed:**  [CSS](https://markhebing.github.io/certifications/cert-1023-15576057.pdf)
+
+**Pending:**  [SQL]
 
 # Science and Engineering Scripts and Calculators
 
