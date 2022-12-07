@@ -18,6 +18,8 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 **Special Interests of Specific Relevance:** Analytical Chemistry, Phase Behavior, Chemical Physics, Dark Matter Chemistry, Dark Matter Chemical Physics, Dark Matter Materials, Advanced Dark Matter Materials Science, Nuclear Magnetic Resonance Physics, Mass Uptake Isotope Physics, Quark Architecture, Fermionic Condensate, Ultraviolet Cloaking, Dark Matter Binary Mass Logic, Binary Architecture Quantum Field Mechanics, Isotope Architecture Mass Offset, Advanced Dark Matter Isotope Materials, Para-Mass-Effect-Relativity
 
+**Primary Focus:** Para-terrestrial Ascension
+
 **Github:** [Mark Hebing](https://github.com/markhebing)
 
 **Linkedin:** [Mark Hebing](https://www.linkedin.com/in/markhebing)
