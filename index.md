@@ -1,10 +1,10 @@
-<img align = "left" style="padding-right: 25px; padding-bottom: 20px;" src = "https://markhebing.github.io/images/MarkHebing33.jpeg" alt="Mark Hebing">**About:**  An analytical and physical chemist by trade working for [Linde PLC](https://en.m.wikipedia.org/wiki/Linde_plc). Currently working in analytical, formulation and process chemistry within the petrochemical, refining, commodity, electronics and nuclear sectors.
+**About:**  An analytical and physical chemist by trade working for [Linde PLC](https://en.m.wikipedia.org/wiki/Linde_plc). Currently working in analytical, formulation and process chemistry within the petrochemical, refining, commodity, electronics and nuclear sectors.
 
 Primarily involved in the development of methodologies used in the analysis, formulation, phase behavior modeling of and/or thermal decomposition (detonation) potential modeling of a large variety of specialty chemicals as well as gas and liquid mixture classes.
 
-Studying coding to develop scientific and engineering applications specific to energy, petrochemical, commodity, electronics manufacturing and nuclear industries, specifically focusing on coding applications used in calculation and/or automation.
+Developing scientific and engineering applications specific to energy, petrochemical, commodity, electronics manufacturing and nuclear industries, specifically focusing on coding applications used in calculation and/or automation.
 
-My interest in coding began with and is largely the result of interest in dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture, a natural extension of the optical and chemical physics used in [NMR](https://en.m.wikipedia.org/wiki/Nuclear_magnetic_resonance)-based [analytical chemistry](https://en.m.wikipedia.org/wiki/Analytical_chemistry) / [instrumental analysis](https://en.m.wikipedia.org/wiki/Instrumental_chemistry).
+Interest in coding began with and is largely the result of interest in dark matter quantum computing theory ... specifically **[AND gate](https://en.wikipedia.org/wiki/AND_gate)** architecture, a natural extension of the optical and chemical physics used in [NMR](https://en.m.wikipedia.org/wiki/Nuclear_magnetic_resonance)-based [analytical chemistry](https://en.m.wikipedia.org/wiki/Analytical_chemistry) / [instrumental analysis](https://en.m.wikipedia.org/wiki/Instrumental_chemistry).
 
 Included is a link to a growing repository of simple [python scripts](https://github.com/markhebing/python-scripts) as well as a growing repository of simple HTML embeded [javascipts](https://github.com/markhebing/javascripts) that I have personally written that are based around function building as well as scientific and engineering calculations as well as a small amount of artificial intelligence and data mining.
 
@@ -43,13 +43,7 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 **Completed:**  [PHP](https://markhebing.github.io/certifications/cert-1059-15576057.pdf)
 
-**Completed:**  [HTML](https://markhebing.github.io/certifications/cert-1014-15576057.pdf)
-
-**Completed:**  [CSS](https://markhebing.github.io/certifications/cert-1023-15576057.pdf)
-
-**Pending:**  [SQL]
-
-# Science and Engineering Scripts and Calculators
+# Simple Science and Engineering Scripts and Calculators
 
 [Convert Grams To Moles For Any Element](https://markhebing.github.io/grams-to-moles/)
 
@@ -57,9 +51,9 @@ Additionally, included at the [bottom of this page](#science-and-engineering-scr
 
 [Convert Random Natural Numers to Binary Numbers](https://markhebing.github.io/base2/)
 
-# Random Articles and Posts
+# Dark Matters ... Articles and Posts
 
-
+[ENCRYPTED]
 
 ---
 
